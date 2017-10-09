@@ -1,0 +1,5 @@
+1. Searchbar
+2. List to display YouTube video results
+3. Button to add video to own playlist
+4. List to show on playlist
+5. Button to save playlist
