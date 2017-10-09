@@ -1,6 +1,0 @@
-1 Searchbar
-2 List with the results
-3 List to store the videos on
-4 Save to playlist button
-5 search button
-6 scrollbar for the resultlist and the playlist
